@@ -13,7 +13,7 @@ Welcome to a brief overview of the applications of deep learning to ecology and 
 ) - ideally read but at least skim, look at figures and read case studies
 
 #### Running the Code in the Cloud (easier)
-We will be using a cloud based Jupyter Notebook environment, [Google's Colaboratory](https://research.google.com/colaboratory/unregistered.html) to run code. 
+We will be using a cloud based Jupyter Notebook environment, [Google's Colaboratory](https://research.google.com/colaboratory/unregistered.html) to run code. You must then sign in to [Colab](https://colab.research.google.com/) with a Google account and then click File > Open Notebook > GitHub and then copy in the url 'https://github.com/patrickcgray/deep_learning_ecology' and all the notebooks in this Github repo will appear. If you don't want to run the code all the notebooks can be viewed on Github.
 
 #### Running the Code Locally (more advanced)
 In order to run locally you need to have Python 3+ and TensorFlow installed. We will be doing our development in IPython notebooks, so you'll likely want to have Jupyter installed as well, or have access to Colab. If you don't already have the aforementioned software installed and want to work locally, please go through the notebook labeled [TensorFlow_Installation.ipynb](https://github.com/patrickcgray/deep_learning_ecology/blob/master/Tensorflow_Installation.ipynb). Installing these tools should take about 5-10 minutes.
